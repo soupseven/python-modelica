@@ -1,2 +1,2 @@
 # python-modelica
-用python调用modelica（Dymola,openmodelica）
+该库包含如何用python调用modelica（Dymola,openmodelica）
